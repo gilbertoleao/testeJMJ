@@ -1,4 +1,4 @@
-# AZ - Avaliação
+# JMJ - Avaliação
 
 Projeto para avaliação e seleção de candidatos a vagas de programador JAVA/Javascript da empresa JMJ.
 Nesta avaliação, você deve criar uma aplicação completa utilizandos os frameworks:
